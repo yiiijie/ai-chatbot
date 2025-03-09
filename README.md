@@ -17,6 +17,19 @@
 
 ## 開發環境設置
 
+### 系統要求
+
+- Node.js 版本：22.x 或以上
+- 建議使用 nvm 進行 Node.js 版本管理
+
+```bash
+# 使用 nvm 安裝並切換到 Node.js 22
+nvm install 22
+nvm use 22
+```
+
+### 安裝與設置
+
 1. 安裝依賴：
 
 ```bash
